@@ -69,7 +69,7 @@
 				</executions>
 				<configuration>
 					<repository>docker.io/pparapatics/spring-test</repository>
-					<tag>${project.version}</tag>
+					<tag>latest</tag>
 				</configuration>
 			</plugin>
 		</plugins>
