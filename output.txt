@@ -1,5 +1,4 @@
 [INFO] Scanning for projects...
-asdf
 [INFO]                                                                         
 [INFO] ------------------------------------------------------------------------
 [INFO] Building spring-test 0.1.0
